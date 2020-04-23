@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System;
 
-namespace assignc3
+namespace c#task3
 {
     class Program
     {
