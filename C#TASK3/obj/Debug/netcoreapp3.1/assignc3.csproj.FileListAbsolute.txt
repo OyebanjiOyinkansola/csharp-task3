@@ -1,0 +1,13 @@
+C:\Users\Helena Nelson\assignc3\bin\Debug\netcoreapp3.1\assignc3.exe
+C:\Users\Helena Nelson\assignc3\bin\Debug\netcoreapp3.1\assignc3.deps.json
+C:\Users\Helena Nelson\assignc3\bin\Debug\netcoreapp3.1\assignc3.runtimeconfig.json
+C:\Users\Helena Nelson\assignc3\bin\Debug\netcoreapp3.1\assignc3.runtimeconfig.dev.json
+C:\Users\Helena Nelson\assignc3\bin\Debug\netcoreapp3.1\assignc3.dll
+C:\Users\Helena Nelson\assignc3\bin\Debug\netcoreapp3.1\assignc3.pdb
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.csprojAssemblyReference.cache
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.csproj.CoreCompileInputs.cache
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.AssemblyInfoInputs.cache
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.AssemblyInfo.cs
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.dll
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.pdb
+C:\Users\Helena Nelson\assignc3\obj\Debug\netcoreapp3.1\assignc3.genruntimeconfig.cache
